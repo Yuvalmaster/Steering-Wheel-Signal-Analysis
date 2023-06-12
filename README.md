@@ -18,4 +18,6 @@ To access the project resources, including the code files and the Data folder, p
 
 Additionally, the project has a requirements.txt file that lists the required dependencies and their versions. It is recommended to set up a conda virtual environment and install the dependencies using the command ```conda install --file requirements.txt``` to ensure compatibility and smooth execution of the project.
 
+Note: Due to the sensitivity and size of the data, access to the Data folders is granted upon request to ensure its proper usage and privacy.
+
 If you have any further questions or need assistance, please feel free to ask.
